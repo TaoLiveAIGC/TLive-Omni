@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/TaoLiveAIGC/TLive-Omni"><img src="https://img.shields.io/badge/Technical-Report-red" alt="Technical Report"></a>
+  <a href="https://arxiv.org/abs/2608.20958"><img src="https://img.shields.io/badge/Technical-Report-red" alt="Technical Report"></a>
   <a href="https://huggingface.co/TaoLiveAIGC/TLive-Omni-4B"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-4B-blue" alt="Hugging Face 4B Model"></a>
   <a href="https://huggingface.co/TaoLiveAIGC/TLive-Omni-9B"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-9B-blue" alt="Hugging Face 9B Model"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache--2.0-f5de53" alt="License"></a>
@@ -16,6 +16,7 @@
 
 ## 📰 News
 
+- 📄 **[2026-08-24]** **Technical Report** — *TLive-Omni: An Omni-Modal Understanding Model for E-Commerce Live Streaming* is now available on [arXiv](https://arxiv.org/abs/2608.20958)!
 - 🔥 **[2026-08-20]** **Model Release** — TLive-Omni is now available on [Hugging Face](https://huggingface.co/TaoLiveAIGC)! With [TLive-Omni-4B](https://huggingface.co/TaoLiveAIGC/TLive-Omni-4B) and [TLive-Omni-9B](https://huggingface.co/TaoLiveAIGC/TLive-Omni-9B).
 
 ## 📋 Overview
@@ -2324,11 +2325,11 @@ TLive-Omni is built with reference to the following open-source projects: [Qwen3
 If you find our work helpful, please consider citing our paper:
 
 ```bibtex
-@article{tliveomni,
-  title   = {TLive-Omni: An Omni-Modal Understanding Model for E-Commerce Live Streaming},
-  author  = {TLive-Omni Team},
-  journal = {arXiv preprint arXiv:XXXX.XXXXX},
-  year    = {2026}
+@article{hu2026tliveomni,
+  title={TLive-Omni: An Omni-Modal Understanding Model for E-Commerce Live Streaming},
+  author={Hu, Yibo and Qian, Yu and Gu, Mao and Tao, Yingfan and Chen, Yuhao and Luo, Yongdong and Liu, Zhuoqun and Jin, Meiguang and Ma, Junfeng},
+  journal={arXiv preprint arXiv:2608.20958},
+  year={2026}
 }
 ```
 
